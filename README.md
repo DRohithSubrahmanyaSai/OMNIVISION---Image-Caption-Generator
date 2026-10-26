@@ -168,7 +168,7 @@ pytest tests/ -v
 | Vector DB | FAISS |
 | Translation | IndicTrans2 |
 | TTS | Coqui XTTS-v2 |
-| Deployment | Docker + NVIDIA |
+| Deployment | Docker + NVIDIA (Future Scope)|
 
 ## License
 
